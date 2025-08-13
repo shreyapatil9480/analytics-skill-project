@@ -73,3 +73,7 @@ The notebook is executed in advance, so you can immediately view the results. To
 - **Reporting** – summarise insights and recommendations in a report or presentation aimed at stakeholders. Consider the business implications of high‑profit transactions and marketing spend.
 
 Feel free to fork this repository and adapt it for your own portfolio. Contributions are welcome via pull requests.
+
+## Future work
+
+This project can be extended by integrating real-world public datasets, developing dashboards, or deploying models as APIs. For example, you could connect the predictive model to a simple web app that allows stakeholders to input transaction details and receive profit predictions. Additionally, experimenting with time-series forecasting (e.g., ARIMA, Prophet) on the monthly aggregated sales could provide insights into future trends.
